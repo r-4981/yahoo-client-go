@@ -1,3 +1,3 @@
-module github.com/r-4981/yahoo-client-go
+module github.com/riji-ra/yahoo-client-go
 
 go 1.23.3
